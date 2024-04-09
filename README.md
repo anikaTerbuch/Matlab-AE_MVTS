@@ -13,6 +13,9 @@ There are two types of autoencoders available:
 - VAE (variational autoencoder)
 The autoencoders can be easily parametrized using hyperparameters.
 
+This toolbox is also mirrored to [MatlabFileExchange](https://de.mathworks.com/matlabcentral/fileexchange/111110-generic-deep-autoencoder-for-time-series).
+
+
 -------------------------------------------------------------------------------------------
 # Publishing information
 
@@ -43,7 +46,9 @@ The following functions are provided:
 
 ## AutoencoderDeep
 
-ad 1) The class AutoencoderDeep contains the following functions:
+ad 1) 
+
+The class AutoencoderDeep contains the following functions:
 - decodingAED:         	decodes the latent representation  back into the original domain.
 
 - ELBOloss:             calculates the Evidence Lower Bound (ELBO) of given data, given
@@ -103,7 +108,9 @@ ad 1) The class AutoencoderDeep contains the following functions:
 -varSeqLen2dlarray:     	creates mini-batches of dl-arrays with minimum resampling. 		
 
 ## HyperparametersAED
-ad 2) The class HyperparametersAED contains the following functions:
+ad 2) 
+
+The class HyperparametersAED contains the following functions:
 -setDefaultHyperparametersAED: initializes the parameters to default values at instantiation of an object		 
 
 -setHyperparametersAED: can be used to change the hyperparameters of the AutoencoderDeep by 
