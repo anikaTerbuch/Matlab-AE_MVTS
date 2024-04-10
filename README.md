@@ -13,7 +13,7 @@ There are two types of autoencoders available:
 - VAE (variational autoencoder)
 The autoencoders can be easily parametrized using hyperparameters.
 
-This toolbox is also mirrored to [MatlabFileExchange](https://de.mathworks.com/matlabcentral/fileexchange/111110-generic-deep-autoencoder-for-time-series).
+This toolbox is also mirrored to [MatlabFileExchange](https://de.mathworks.com/matlabcentral/fileexchange/111110-generic-deep-autoencoder-for-time-series) 
 
 
 -------------------------------------------------------------------------------------------
