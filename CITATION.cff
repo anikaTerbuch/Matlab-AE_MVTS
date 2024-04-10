@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Terbuch"
+  given-names: "Anika"
+  orcid: "https://orcid.org/0000-0001-8699-1367"
+title: "Generic Deep Autoencoder for Time-Series"
+version: 2.0.2
+date-released: 2024-04-10
+url: "https://github.com/anikaTerbuch/Matlab-AE_MVTS"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Terbuch"
+    given-names: "Anika"
+    orcid: "https://orcid.org/0000-0001-8699-1367"
+  - family-names: "O'Leary"
+    given-names: "Paul"
+    orcid: "https://orcid.org/0000-0002-1367-8270"
+  - family-names: "Auer"
+    given-names: "Peter"
+    orcid: "https://orcid.org/0000-0001-8385-9635"	
+  doi: " 10.1109/I2MTC48687.2022.9806663 "
+  journal: "J2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)"
+  month: 5
+  start: 1 # First page number
+  end: 6 # Last page number
+  title: "Hybrid Machine Learning for Anomaly Detection in Industrial Time-Series Measurement Data"
