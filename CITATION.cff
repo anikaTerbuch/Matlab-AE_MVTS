@@ -26,3 +26,4 @@ preferred-citation:
   start: 1 # First page number
   end: 6 # Last page number
   title: "Hybrid Machine Learning for Anomaly Detection in Industrial Time-Series Measurement Data"
+  venue: 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)
