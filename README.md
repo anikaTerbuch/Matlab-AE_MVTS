@@ -25,7 +25,7 @@ Measurement Data"
 by: Anika Terbuch, Paul O'Leary and Peter Auer
 Mai 2022
 
-Link to paper: [Hybrid Machine Learning for Anomaly Detecion in Industrial Time Series] (https://ieeexplore.ieee.org/document/9806663)
+Link to paper: https://ieeexplore.ieee.org/document/9806663
 
 # Example Plot
 This plot shows the input and output of a multivariate time-series to a variational autoencoder built with this framework
